@@ -134,6 +134,9 @@ Projects
 ## 🖼️ Screenshots
 
 ### Main GUI Interface
+
+![FolderForge GUI](https://i.postimg.cc/1zx8WLpR/image.png)
+
 The intuitive interface makes folder creation simple and visual:
 - Base directory selection
 - Template library dropdown
